@@ -1,18 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-:root {
-  --bg-color-light: #fff;
-  --text-color-light: #000;
-  --bg-color-dark: #222;
-  --text-color-dark: #fff;
+@ilwind basilwind componentilwind utilities;
+::before,
+*:box-sizing: border--bg-color-light: f;
+  --tep-bg-colo-text-color-dark: #fff;
   --bg-color-elevation1: #444;
   --interactive: #d0383e;
 
@@ -131,40 +120,27 @@ p {
 }
 #carbonads span {
   position: relative;
-  display: block;
-  overflow: hidden;
+  display:  overflow: hidden;
 }
 #carbonads .carbon-wrap {
-  display: flex;
-}
-#carbonads .carbon-img {
+  display: flarbonads .carbon-img {
   display: block;
   margin: 0;
   line-height: 1;
 }
-#carbonads .carbon-img img {
-  display: block;
+#carbonads .carbon-img i display: block;
 }
 #carbonads .carbon-text {
-  font-size: 13px;
-  padding: 10px;
-  margin-bottom: 16px;
-  line-height: 1.5;
-  text-align: left;
+  ont-sizepadding: 10pmargin-boeigtext-align: lt;
 }
-#carbonads .carbon-poweredby {
-  display: block;
-  padding: 6px 8px;
+#carbo display: block;
+  paddin;
   background: #f1f1f2;
   color: var(--text-color-light);
-  text-align: center;
+xt-align: center;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-weight: 600;
-  font-size: 8px;
-  line-height: 1;
-  border-top-left-radius: 3px;
-  position: absolute;
+  letter-spacing: 0.5p  font-weight
+  t-size: 8px;pne-heiborder-top-adius: 3osition: absolute;
   bottom: 0;
   right: 0;
 }
