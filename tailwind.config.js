@@ -1,7 +1,6 @@
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  corePlugins: {
-    preflight: false,
+/** @type t('tailig} */
+module.exports orePlugins: {
+    preflig
   },
   content: [
     './pages/**/*.{js,ts,jsx,tsx,mdx}',

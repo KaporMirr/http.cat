@@ -1,41 +1,18 @@
-# http.cat
+# httpturhttps://http.cz/2## AboutThis is the website that is hosted at [https://httpp.cz).The code for the older version hosted at the heroku platform is at the [http-status-cas-api](https://github.com/rogeriopvl/http-sta-apo.
 
-![HTTP Cat picture](https://http.cat/204)
+This version does not need any server side code. The API behaviokohufkvkb
+ React and pre-rendered with react-snap.
+As of v3.0.0 it'st wihhhth Next.js 1
+hp## ´´´ĺ´´´´    npm run dv
 
-## About
-
-This is the website that is hosted at [https://http.cat](https://http.cat).
-
-The code for the older version hosted at the heroku platform is at the [http-status-cats-api](https://github.com/rogeriopvl/http-status-cats-api) repo.
-
-This version does not need any server side code. The API behavior is provided by a Nginx server config.
-
-On v2.0.0 the website was built with React and pre-rendered with react-snap.
-
-As of v3.0.0 it's built with Next.js 13.
-
-## Development
-
-    npm run dev
-
-Runs the tests.
-
-    npm run build
-
-Creates a build of the project.
-
-## Adding a new image
-
-Currently not all HTTP status codes are covered. You are welcome to create an issue or PR to cover them.
-
-We've prepared some templates to make this process easier.
+Runs the tests buil of Adding a new  not all HTTP status codes are covered. You are welcome to crea  to cover .We've prepared some templates to make this process
 
 - [Landscape template](https://docs.google.com/presentation/d/1sYxNNKxUbP11kyt9oPixWdFEykHDafr4jixy9uwMh9I/edit?usp=sharing)
 - [Portrait template](https://docs.google.com/presentation/d/1Ay5nattHagPfnd-gMaUHumckFt2VANaYwMkXuQ-xS6E/edit?usp=sharing)
 
 You can clone it, replace the information with the new one and export as a JPG image.
 
-Then, upload it to both `public/images` and `public/images-original` folders and update the [statuses.js](https://github.com/httpcats/http.cat/blob/master/lib/statuses.js) file.
+Then, upload it to both `public/images` and `public/images-original` folders and update the [statuses.js](https://github.com/httpcats/blob/master/lib/statuses.js) file.
 
 Finally you need to add a markdown file in `/content/<status-code>.md` with a
 description of the status code and links to official documentation. Please
@@ -47,9 +24,7 @@ etc to translate the content to Catalan.
 
 Thanks to [@girliemac](https://github.com/girliemac) for creating the amazing http status cats images.
 
-Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat logo (RIP my friend).
-
-#### Thanks to all the contributors:
+Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat logo (RIP my frien#### Thanks to all the contributors:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -70,7 +45,7 @@ Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat l
       <td align="center" valign="top" width="14.28%"><a href="https://www.blog.ljrk.org/"><img src="https://avatars.githubusercontent.com/u/7831843?v=4?s=100" width="100px;" alt="Leonard Janis Robert König"/><br /><sub><b>Leonard Janis Robert König</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=ljrk0" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://omarefg.com/"><img src="https://avatars.githubusercontent.com/u/30012444?v=4?s=100" width="100px;" alt="Omar Flores Grimontt"/><br /><sub><b>Omar Flores Grimontt</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=omarefg" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fafrd"><img src="https://avatars.githubusercontent.com/u/5905628?v=4?s=100" width="100px;" alt="Kian"/><br /><sub><b>Kian</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=fafrd" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dcruz"><img src="https://avatars.githubusercontent.com/u/401064?v=4?s=100" width="100px;" alt="David Cruz"/><br /><sub><b>David Cruz</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=dcruz" title="Code">💻</a> <a href="#design-dcruz" title="Design">🎨</a> <a href="#a11y-dcruz" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dcruz"><img src="https://avatars.githubusercontent.com/u/401064?v=4?s=100" width="100px;" alt="David Cruz"/><br /><sub><b>David Cruz</b></sub></a><brgithub.com/httpcats/http.cat/commits?author=dcruz" title="Code">💻</a> <a href="#design-dcruz" title="Design">🎨</a> <a href="#a11y-dcruz" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://m4thieulavoie.dev/"><img src="https://avatars.githubusercontent.com/u/44816587?v=4?s=100" width="100px;" alt="Matt Lavoie"/><br /><sub><b>Matt Lavoie</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=m4thieulavoie" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zurgeg"><img src="https://avatars.githubusercontent.com/u/46549042?v=4?s=100" width="100px;" alt="zurgeg"/><br /><sub><b>zurgeg</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=zurgeg" title="Code">💻</a></td>
     </tr>
@@ -81,11 +56,8 @@ Thanks to [@pfdborges](https://github.com/pfdborges) for creating the http.cat l
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arnau478"><img src="https://avatars.githubusercontent.com/u/61841960?v=4?s=100" width="100px;" alt="Arnau"/><br /><sub><b>Arnau</b></sub></a><br /><a href="#translation-Arnau478" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mathiazom"><img src="https://avatars.githubusercontent.com/u/24361490?v=4?s=100" width="100px;" alt="Mathias Oterhals Myklebust"/><br /><sub><b>Mathias Oterhals Myklebust</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=mathiazom" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ronan-s1"><img src="https://avatars.githubusercontent.com/u/85257187?v=4?s=100" width="100px;" alt="Ronan"/><br /><sub><b>Ronan</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=ronan-s1" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AlexMayol"><img src="https://avatars.githubusercontent.com/u/11309999?v=4?s=100" width="100px;" alt="Alejandro Mayol"/><br /><sub><b>Alejandro Mayol</b></sub></a><br /><a href="#design-AlexMayol" title="Design">🎨</a> <a href="https://github.com/httpcats/http.cat/commits?author=AlexMayol" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NoobTracker"><img src="https://avatars.githubusercontent.com/u/63962365?v=4?s=100" width="100px;" alt="NoobTracker"/><br /><sub><b>NoobTracker</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=NoobTracker" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mokazemi"><img src="https://avatars.githubusercontent.com/u/18334056?v=4?s=100" width="100px;" alt="Mohammad Kazemi"/><br /><sub><b>Mohammad Kazemi</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=mokazemi" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AlexMayol"><img src="https://avatars.githubusercontent.com/u/11309999?v=4?s=100" width="100px;" alt="Alejandro Mayol"/><br /><sub><b>Alejandro Mayol</b></sub></a><br /><a href="#design-AlexMayol" title="Design">🎨</a> <a href="https://github.com/httpcats/http.cat/commits?author=AlexMayol" title="Code/a></td>
+    </tr>    <tr>      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NoobTracker"><img src="https://avatars.githubusercontent.com/u/63962365?v=4=100" width="100px;" alt="Noćker"/><br /><sub><b>NoobTracker</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=NoobTracker" titl      <td align="center" valign="top" width="14.28%"><a href="https://githu.com/mokazemi"><img src="https://avatars.githubusercontent.com/u/18334056?v=4?s=100" width="100px;" alt="Mohammad Kazemi"/><br /><sub><b>Mohammad Kazemi</b></sub></a><br /><a href="https://github.com/httpc?auth">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://about.me/lucasmezencio"><img src="https://avatars.githubusercontent.com/u/472412?v=4?s=100" width="100px;" alt="Lucas Mezêncio"/><br /><sub><b>Lucas Mezêncio</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=lucasmezencio" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://stackoverflow.com/"><img src="https://avatars.githubusercontent.com/u/90441096?v=4?s=100" width="100px;" alt="Xeno"/><br /><sub><b>Xeno</b></sub></a><br /><a href="https://github.com/httpcats/http.cat/commits?author=Xenofic" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/santiago-salinas"><img src="https://avatars.githubusercontent.com/u/48341470?v=4?s=100" width="100px;" alt="Santiago Salinas"/><br /><sub><b>Santiago Salinas</b></sub></a><br /><a href="#content-santiago-salinas" title="Content">🖋</a></td>
